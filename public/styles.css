@@ -1,0 +1,56 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.middle-container{
+    width: 40%;
+    margin: auto;
+    background-color: black;
+    color: aliceblue;
+}
+.top{
+    display:flex;
+    border-bottom: 1px solid gray;
+}
+.middle{
+   padding-top: 50%;   
+   padding-bottom: 50%;
+
+}
+.leftUser{
+    margin-left: 70%;
+}
+.bottom{
+}
+
+.bin{
+    padding: 7px 10px;
+    background: transparent;
+    color: aliceblue;
+    size: auto;
+    border-radius: 15px;
+}
+.iconTop{
+  display: flex;
+  margin-left: 50%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.topi{
+    padding-top: 5%;
+    padding-left: 3%;
+}
+.ti{
+    padding-right: 25px;
+}
+.userName{
+    margin-left: 20px;
+    padding: auto;
+}
+.bottomicon{
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.bti{
+    display: flex;
+}
